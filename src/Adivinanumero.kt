@@ -92,7 +92,6 @@ fun numerovalido(numero: String, longitud: Int): Boolean {
 }
 
 fun calcularcoincidencias(numerosecreto: String, numerointroducido: String): Pair<Int, Int> {
-    123
     var aciertos = 0
     var coincidencias = 0
 
