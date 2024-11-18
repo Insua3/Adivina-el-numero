@@ -1,0 +1,1 @@
+Numero secreto: 3216, Numero de intentos: 10

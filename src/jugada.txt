@@ -1,0 +1,1 @@
+Numero secreto: 1532, Numero de intentos: 10
